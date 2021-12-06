@@ -1,0 +1,1 @@
+1 - Foi identificado um Bad Smells, intitualdo (Cirurgia com Rifle), onde temos que mover as partes de salvamento e colocar em uma única classe(StremerGUI). Utilizando o WindowListener podemos criar um método que indentifica quando a janela é fechada, fazendo com que salve todos os dados, logo após, encerra o programa.
