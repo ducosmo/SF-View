@@ -8,12 +8,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import javax.swing.JOptionPane;
-
-import Steam_zuado.CategoriaDeJogo;
-import Steam_zuado.CategoriaJaAdicionadaException;
-import Steam_zuado.JogoInexistenteException;
-
 public class SistemaUsuariosMap implements Usuarios{
     private Map<String, Login> usuarios;
 	private Map<String, Programa> programacao;
