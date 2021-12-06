@@ -6,8 +6,6 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.LinkedList;
 import java.util.List;
 
-import javax.swing.JOptionPane;
-
 import org.junit.jupiter.api.Test;
 
 class SistemaUsuariosMapTeste {
